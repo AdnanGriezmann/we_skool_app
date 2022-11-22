@@ -39,6 +39,7 @@ class CommonWidgets {
     );
   }
 
+
   static Widget appBarSimple({
     String? title,
     Function? onPressBack,
